@@ -1,0 +1,25 @@
+EXPORTS
+    _Z11read_numberP6_iobufPd @1
+    _Z14RandomEqualINTii @2
+    _Z15RandomEqualREALdd @3
+    _Z17InitializeRandomsv @4
+    _ZN20MultiLayerPerceptron11SaveWeightsEv @5
+    _ZN20MultiLayerPerceptron13AdjustWeightsEv @6
+    _ZN20MultiLayerPerceptron13RandomWeightsEv @7
+    _ZN20MultiLayerPerceptron14RestoreWeightsEv @8
+    _ZN20MultiLayerPerceptron14SetInputSignalEPd @9
+    _ZN20MultiLayerPerceptron15GetOutputSignalEPd @10
+    _ZN20MultiLayerPerceptron15PropagateSignalEv @11
+    _ZN20MultiLayerPerceptron18BackPropagateErrorEv @12
+    _ZN20MultiLayerPerceptron18ComputeOutputErrorEPd @13
+    _ZN20MultiLayerPerceptron3RunEPKcRKi @14
+    _ZN20MultiLayerPerceptron4TestEPKc @15
+    _ZN20MultiLayerPerceptron5TrainEPKc @16
+    _ZN20MultiLayerPerceptron8EvaluateEv @17
+    _ZN20MultiLayerPerceptron8SimulateEPdS0_S0_b @18
+    _ZN20MultiLayerPerceptronC1EiPi @19
+    _ZN20MultiLayerPerceptronC2EiPi @20
+    _ZN20MultiLayerPerceptronD1Ev @21
+    _ZN20MultiLayerPerceptronD2Ev @22
+    feof @23
+    main @24

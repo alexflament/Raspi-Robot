@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1593637947 source:c:\users\aflament\documents\github\mlp\mlp.cc
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"mlp.h"
+
+1593629961 c:\users\aflament\documents\github\mlp\mlp.h
+
+1593637417 source:c:\users\aflament\documents\github\mlp\test.cc
+	"mlp.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1606081863 source:c:\users\alexandre\documents\github\mlp\mlp.cc
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"mlp.h"
+
+1593626361 c:\users\alexandre\documents\github\mlp\mlp.h
+
+1606081863 source:c:\users\alexandre\documents\github\mlp\test.cc
+	"mlp.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
